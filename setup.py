@@ -1,1 +1,3 @@
-conda install -c conda-forge/label/cf201901 fbprophet 
+conda install -c anaconda ephem
+conda install -c conda-forge pystan
+conda install -c conda-forge fbprophet
